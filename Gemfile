@@ -41,6 +41,10 @@ gem 'devise', '3.5.2'
 gem 'stripe', '1.31.0'
 
 gem 'figaro', '1.1.1'
+
+# Use paperclip for image uploads
+gem 'paperclip', '4.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
